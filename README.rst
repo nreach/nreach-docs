@@ -5,10 +5,10 @@ Welcome to nreach's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   nreach-base/index
-   nreach-t3-base/index
-   nreach-t3-vision/index
-   nreach-t3-text/index
+   nreach-base/README
+   nreach-t3-base/README
+   nreach-t3-vision/README
+   nreach-t3-text/README
 
 Indices and tables
 ==================
