@@ -1,0 +1,16 @@
+[submodule "nreach-base"]
+	path = nreach-base
+	url = https://github.com/nreach/nreach-base
+	branch = master
+[submodule "nreach-t3-text"]
+	path = nreach-t3-text
+	url = https://github.com/nreach/nreach-t3-text
+	branch = master
+[submodule "nreach-t3-vision"]
+	path = nreach-t3-vision
+	url = https://github.com/nreach/nreach-t3-vision
+	branch = master
+[submodule "nreach-t3-base"]
+	path = nreach-t3-base
+	url = https://github.com/nreach/nreach-t3-base
+	branch = master
