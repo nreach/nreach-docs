@@ -14,47 +14,45 @@ The first step for nreaching your content is to sign up at our portal and then i
 
 1. Go to our `sign up page <https://nreach.portal.azure-api.net/signup>`_.
 
-.. image:: images/install1.png
-
-2. Verify your email adress inside your mail programm
+2. Verify your email adress inside your mail programm.
 
 3. Go to the `Computer Vision Product <https://nreach.portal.azure-api.net/products/58bc98f907b6540081060001>`_ and click subscribe.
 
-.. image:: images/install2.png
+.. image:: images/subscribe_product_small.png
 
-4. Confirm your subscription
+4. Confirm your subscription.
 
-.. image:: images/install3.png
+.. image:: images/confirm_subscription_small.png
 
-5. Access your primary key by clicking show
+5. Access your primary key by clicking show.
 
-.. image:: images/install4.png
+.. image:: images/access_primarykey_small.png
 
 
 TYPO3 Configuration
 -------------------
 
-1. Install our extension and dependencies
+1. Install our extension and dependencies.
 
 .. code:: bash
 
    composer require nreach/nreach-t3-vision
 
-2. Goto your TYPO3 backend and open the extension configuration
+2. Goto your TYPO3 backend and open the extension configuration.
 
-.. image:: images/conf1.png
+.. image:: images/extension_manager_small.png
 
-3. Insert your key from the product signup
+3. Insert your key from the product signup.
 
-.. image:: images/conf2.png
+.. image:: images/configure_primarykey_small.png
 
-4. Goto some image inside the filelist and click the nreach buttons
+4. Goto some image inside the filelist and click the nreach buttons.
 
-.. image:: images/conf3.png
+.. image:: images/fileadmin_usage_small.png
 
 5. Profit
 
-.. image:: images/conf4.png
+.. image:: images/nreach_raw.gif
 
 Scheduler Task Setup
 --------------------
